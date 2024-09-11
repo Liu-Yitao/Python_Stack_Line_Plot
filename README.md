@@ -1,4 +1,5 @@
-# Python_Stack_Line_Plot
+# Stack Line Plot
+in python
 
 ## dependency
 python libs:
