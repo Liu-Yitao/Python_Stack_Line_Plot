@@ -1,19 +1,22 @@
 # Stack Line Plot
 in python
 
-## dependency
+## Dependency
+
 python libs:
+
 - numpy
 - xarray
 - matplotlib
 
-## demo of processes
+
+## Demo of Processes
 
 it follows these steps
 
 ![202409_Python_LinePlot](https://github.com/user-attachments/assets/c016e261-aa65-4a06-8ad7-0b25988656c0)
 
-# sample
+# Sample Code
 
 ```Python
 ##----------------------------------------
