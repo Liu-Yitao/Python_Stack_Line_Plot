@@ -4,6 +4,8 @@ stacked line plots are common in the field of Paleoclimate research.
 They are usually done in GUI plot APP. But in Python, some specific 
 settings are needed. Here is a sample of how to make it using Python.
 
+There is also another realization of stacked plot, see in Pkg [Pyleoclim](https://pyleoclim-util.readthedocs.io/en/latest/_modules/pyleoclim/core/multipleseries.html#MultipleSeries.stackplot) document.
+
 # Stacked Line Plot
 
 ## Dependency
