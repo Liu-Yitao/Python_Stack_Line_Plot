@@ -3,7 +3,7 @@ Stacked line plots are common in the field of Paleoclimate research.
 They are usually done in GUI plot APP. But in Python, some
 settings are needed. Here is a sample of how to make it using Python.
 
-# Stack Line Plot
+# Stacked Line Plot
 
 ## Dependency
 
