@@ -2,7 +2,7 @@ Like [Figure 3](https://www.annualreviews.org/docserver/fulltext/marine/9/1/ma90
 
 
 Stacked line plots are common in the field of Paleoclimate research.
-They are usually done in GUI plot APP. But in Python, some
+They are usually done in GUI plot APP. But in Python, some specific 
 settings are needed. Here is a sample of how to make it using Python.
 
 # Stacked Line Plot
