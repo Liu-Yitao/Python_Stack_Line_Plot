@@ -1,4 +1,4 @@
---(Fig 3, in Lynch-Stieglitz, Jean. 2017. Annual review of marine science)--
+Like [Figure 3](https://www.annualreviews.org/docserver/fulltext/marine/9/1/ma90083.f3.gif), in Lynch-Stieglitz, Jean. 2017. Annual review of marine science
 
 
 Stacked line plots are common in the field of Paleoclimate research.
